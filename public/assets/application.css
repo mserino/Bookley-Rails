@@ -1,0 +1,19 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+body {
+  backgroundColor: hotpink; }
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwbGljYXRpb24uY3NzIiwic291cmNlcyI6WyJhcHBsaWNhdGlvbi5zYXNzIl0sInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBUaGlzIGlzIGEgbWFuaWZlc3QgZmlsZSB0aGF0J2xsIGJlIGNvbXBpbGVkIGludG8gYXBwbGljYXRpb24uY3NzLCB3aGljaCB3aWxsIGluY2x1ZGUgYWxsIHRoZSBmaWxlc1xuICogbGlzdGVkIGJlbG93LlxuICpcbiAqIEFueSBDU1MgYW5kIFNDU1MgZmlsZSB3aXRoaW4gdGhpcyBkaXJlY3RvcnksIGxpYi9hc3NldHMvc3R5bGVzaGVldHMsIHZlbmRvci9hc3NldHMvc3R5bGVzaGVldHMsXG4gKiBvciBhbnkgcGx1Z2luJ3MgdmVuZG9yL2Fzc2V0cy9zdHlsZXNoZWV0cyBkaXJlY3RvcnkgY2FuIGJlIHJlZmVyZW5jZWQgaGVyZSB1c2luZyBhIHJlbGF0aXZlIHBhdGguXG4gKlxuICogWW91J3JlIGZyZWUgdG8gYWRkIGFwcGxpY2F0aW9uLXdpZGUgc3R5bGVzIHRvIHRoaXMgZmlsZSBhbmQgdGhleSdsbCBhcHBlYXIgYXQgdGhlIGJvdHRvbSBvZiB0aGVcbiAqIGNvbXBpbGVkIGZpbGUgc28gdGhlIHN0eWxlcyB5b3UgYWRkIGhlcmUgdGFrZSBwcmVjZWRlbmNlIG92ZXIgc3R5bGVzIGRlZmluZWQgaW4gYW55IHN0eWxlc1xuICogZGVmaW5lZCBpbiB0aGUgb3RoZXIgQ1NTL1NDU1MgZmlsZXMgaW4gdGhpcyBkaXJlY3RvcnkuIEl0IGlzIGdlbmVyYWxseSBiZXR0ZXIgdG8gY3JlYXRlIGEgbmV3XG4gKiBmaWxlIHBlciBzdHlsZSBzY29wZS5cbiAqXG4gKj0gcmVxdWlyZV90cmVlIC5cbiAqPSByZXF1aXJlX3NlbGZcbiAqL1xuYm9keSB7XG4gICAgYmFja2dyb3VuZENvbG9yOiBob3RwaW5rOyB9XG4iXSwibWFwcGluZ3MiOiJBQUFBOzs7Ozs7Ozs7Ozs7OztHQWNHO0FBQ0gsSUFBSSxDQUFDO0VBQ0QsZUFBZSxFQUFFLE9BQVEsR0FBRyIsIm5hbWVzIjpbXSwic291cmNlUm9vdCI6Ii9zb3VyY2UvIn0= */
