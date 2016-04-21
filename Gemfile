@@ -32,3 +32,9 @@ group :development do
   gem 'spring'
 end
 
+group :development, :test do
+  gem 'rspec-rails'
+  gem 'capybara', :git => 'git://github.com/jnicklas/capybara.git'
+  gem 'launchy'
+  gem 'database_cleaner'
+end
